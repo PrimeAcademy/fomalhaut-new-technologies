@@ -1,5 +1,5 @@
 # elnath-new-technologies
-New technologies learned by the Betelgeuse cohort
+New technologies learned by the Elnath cohort
 
 - clone repo
 - add file to technologies folder like `technology-your-name.md` (example: `react-axios-luke.md`)
