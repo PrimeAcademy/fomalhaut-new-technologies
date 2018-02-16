@@ -1,7 +1,7 @@
 # Ruby on Rails -- Stephanie Ratanas
 
 ## About
-Ruby on Rails is a framework written in the Ruby language. It is meant to make things easy by making assumptions about what you need to create an application.
+Ruby on Rails is a framework written in the Ruby language. It is meant to make things easy by making assumptions about what you need to create an application. This replaces node.js in our curent stack.
 
 ## Set Up
 Install Ruby and Rails:
