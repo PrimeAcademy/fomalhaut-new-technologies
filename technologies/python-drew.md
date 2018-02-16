@@ -1,4 +1,4 @@
-# React and Axios Example by Luke Schlangen
+# Python Example by Drew
 
 ## About
 Python is an easy-to-learn programming language, often used in academia and by hobbists. There are a lot of data analytics and machine learning projects out using Python.
