@@ -20,3 +20,7 @@ Here is my [Hello World!] (https://github.com/decameters/sassy-sass-sassface) ex
 ## Next steps
 
 The next steps for learning would be to find a more in-depth video demo, especially one that has more examples for functions and math within Sass.
+
+## Another cool thing
+
+Here's a [Sass playground](https://www.sassmeister.com/) to get the feel for sassy things!
