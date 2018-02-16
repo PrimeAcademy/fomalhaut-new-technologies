@@ -15,7 +15,7 @@ node-sass runs from the command line, so in order to create a CSS file from your
 
 ## Hello World
 
-Here is my [Hello World!] (https://github.com/decameters/sassy-sass-sassface) example, built with HTML and SCSS. This shows you how nesting and variables work within SCSS files.
+Here is my [Hello World!](https://github.com/decameters/sassy-sass-sassface) example, built with HTML and SCSS. This shows you how nesting and variables work within SCSS files.
 
 ## Next steps
 
