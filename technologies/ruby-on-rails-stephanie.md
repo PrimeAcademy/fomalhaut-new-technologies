@@ -25,9 +25,10 @@ To start server on the command line:
 ## Next steps
 I started building out a CRUD app here: https://github.com/sratanas/ruby-one
 
-##Awesome resources:
-[Ruby in 20 mins (from Ruby website)](https://www.ruby-lang.org/en/documentation/quickstart/)
+## Awesome resources:
 
-[Ruby on Rails Getting Started](http://guides.rubyonrails.org/getting_started.html)
+- [Ruby in 20 mins (from Ruby website)](https://www.ruby-lang.org/en/documentation/quickstart/)
+
+- [Ruby on Rails Getting Started](http://guides.rubyonrails.org/getting_started.html)
 
 
