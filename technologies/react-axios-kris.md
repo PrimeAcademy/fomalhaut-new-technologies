@@ -1,4 +1,4 @@
-# React and Axios Example by Luke Schlangen by co-opted by Kris Szafranski for Demonstration Purposes
+# React and Axios Example by Luke Schlangen and co-opted by Kris Szafranski for Demonstration Purposes
 
 ## About
 React and Axios work together to retrieve data from the server.
