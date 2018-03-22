@@ -1,18 +1,14 @@
 # C# Learn a Language Plan
 
 ## About
-React and Axios work together to retrieve data from the server.
+Setting up an IDE to write and compile C# programs on Mac.
 
 ## Set Up
-To get started with React and Axios, you mus install them with 
+To get started you will need to download and install Visual Studio for Mac. 
 
-`npm install react`
+https://www.visualstudio.com/vs/mac/
+It will prompt you to install the latest version of X-Code if you do not have it installed already.
 
-and 
-
-`npm install axios`
-
-I go into a lot more depth in [this lecture repo](https://github.com/PrimeAcademy/betelgeuse-introduction-to-react), although, there is admitedly a lot of content in there.
 
 ## Hello World
 
