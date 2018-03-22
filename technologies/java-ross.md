@@ -16,7 +16,7 @@ I go into a lot more depth in [this lecture repo](https://github.com/PrimeAcadem
 
 ## Hello World
 
-![Hello World!]((https://i.imgur.com/Q82M8uU.png) Hello World")
+![Hello World!]((https://i.imgur.com/Q82M8uU.png Hello World")
 
 ## Next steps
 
