@@ -16,7 +16,7 @@ I go into a lot more depth in [this lecture repo](https://github.com/PrimeAcadem
 
 ## Hello World
 
-Here is a link to my [Hello List](https://github.com/LukeSchlangen/simplified-react-axios) example built with React and Axios. This returns an array from a `mockable` http endpoint and displays it on the DOM.
+![Hello World!](https://imgur.com/Q82M8uU Hello World")
 
 ## Next steps
 
