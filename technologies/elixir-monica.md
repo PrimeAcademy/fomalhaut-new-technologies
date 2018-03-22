@@ -22,3 +22,4 @@ Verify installation:
 ![Hello World!](https://i.imgur.com/A5Sm4M6.png "Hello World")
 
 ## Next steps
+Get Elixir to connect to the front end and generate a small todo list. 
