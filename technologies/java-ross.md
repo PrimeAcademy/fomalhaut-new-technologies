@@ -1,23 +1,15 @@
 # Hello World using Java
 
 ## About
-React and Axios work together to retrieve data from the server.
+Java is a class based, object oriented programming language. Java is meant to be "Write once, run anywhere" which means it is supposed to be able to run on all platforms without the need for recompiling.
 
 ## Set Up
-To get started with React and Axios, you mus install them with 
-
-`npm install react`
-
-and 
-
-`npm install axios`
-
-I go into a lot more depth in [this lecture repo](https://github.com/PrimeAcademy/betelgeuse-introduction-to-react), although, there is admitedly a lot of content in there.
+To get started with Java you must install [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html) and to make it easier download an IED, I used [Intellij](https://www.jetbrains.com/idea/download/#section=mac).
 
 ## Hello World
 
-![Hello World!](https://i.imgur.com/Q82M8uU.png)
+![Hello World!](https://i.imgur.com/dg2DRC1.png)
 
 ## Next steps
 
-The next steps for learning this is to understand the role of middleware like flux/redux and logging/sagas. These are tools used to manage state, but since this [Hello List](https://github.com/LukeSchlangen/simplified-react-axios) example only has a single state (displaying the list), the next step will likely be adding something to the list with a `POST`.
+I want to be able to communicate with the browser and make a basic app such as a calculator.
