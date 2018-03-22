@@ -12,21 +12,23 @@ To get started with C#, you must install "c#" on visual studio code and ".NET Co
 1. Navigate to the program.cs file and enter the following code
 
 `   
-using System;
-using System.Collections.Generic;
-using System.Linq;
+    using System;
 
-    namespace myApp
-    {
-        class Program
+    using System.Collections.Generic;
+
+    using System.Linq;
+
+        namespace myApp
         {
-            static void Main(string[] args)
+            class Program
             {
-                var name = ", Ian";
-                Console.WriteLine($"Hello{name}!");
+                static void Main(string[] args)
+                {
+                    var name = ", Ian";
+                    Console.WriteLine($"Hello{name}!");
+                }
             }
         }
-    }
 `
 
 ## Next steps
