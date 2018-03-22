@@ -4,7 +4,7 @@
 C# is a simple, easy to use, type-safe object oriented programming language that uses the .NET framework. C# is highly used in game development.  
 
 ## Set Up
-To get started with C#, you must install "c#" on visual studio code and ".NET Core SDK" ![.NET Core SDK](https://www.microsoft.com/net/download/macos) to your computer. Once installed enter the following in your console to create a new project. 
+To get started with C#, you must install "c#" on visual studio code and ".NET Core SDK"(https://www.microsoft.com/net/download/macos) to your computer. Once installed enter the following in your console to create a new project. 
 
 `dotnet new console -o myApp`
 
