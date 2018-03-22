@@ -12,4 +12,6 @@ Java is a general-purpose, strongly-typed progamming language. It uses object-or
 ![Hello World!](https://i.imgur.com/uEhSTu7.png)
 
 ## Next Steps
-
+- Brush up on object-oriented programming by working more with classes.
+- Look into Spring.
+- Get Java working with front-end, create a small salary calculator app.
