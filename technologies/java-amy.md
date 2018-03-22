@@ -9,7 +9,7 @@ Java is a general-purpose, strongly-typed progamming language. It uses object-or
 - Choose an IDE to start writing & running Java. I chose IntelliJ IDEA, created by JetBrains. (Download here: https://www.jetbrains.com/idea/download/#section=mac).
 
 ## Hello World
-[Imgur](https://i.imgur.com/uEhSTu7.png)
+![Hello World!](https://i.imgur.com/uEhSTu7.png)
 
 ## Next Steps
 
