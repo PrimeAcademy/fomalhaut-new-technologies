@@ -24,7 +24,7 @@ After setup open MAMP on your local machine and click on start server, the serve
 
 - Build a small contact form 
 - Use MySQL and PHP together
-- Research how to use PHP in my IoT projects
-- possibly develop reusable PHP scripts
+- Research how to use PHP in IoT
+- Possibly develop reusable PHP scripts
 
 
