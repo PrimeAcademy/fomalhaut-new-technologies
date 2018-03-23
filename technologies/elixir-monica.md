@@ -23,3 +23,10 @@ Verify installation:
 
 ## Next steps
 Get Elixir to connect to the front end and generate a small todo list. 
+
+## Resources
+[Joy of Elixir Free online book](https://joyofelixir.com)
+
+[Tech Stack Comparison Article](https://smashingboxes.com/blog/choosing-your-future-tech-stack-clojure-vs-elixir-vs-go/)
+
+[Elixir School](https://elixirschool.com/en/)
