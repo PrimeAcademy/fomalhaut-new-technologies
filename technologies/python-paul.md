@@ -13,13 +13,15 @@ To begin coding in Python, create a new file with a '.py' file extension. I name
 
 Enter the following code in your file:
 
+```python
   print("hello world")
-
+```
 
 Now, to run this code, simply enter the following into your Terminal:
 
-    python [your_filename]
-
+```
+ python [your_filename]
+```
 
 You should see the text 'hello world" print to your console!
 
