@@ -21,11 +21,13 @@ After I installed Eclipse it offers both a hello world tutorial and other starte
 
 I took the step by step Eclipse Hello World Tutorial and came up with this - 
 
-`public class HelloWorld {
+```
+public class HelloWorld {
 	public static void main(String[] args) {
 System.out.println("Hello world!");
 	}
-}`
+}
+```
  
 Setting up the Eclipse environment had a couple of small hiccups but it was fairly easy.
 Eclipse automatically compiled and ran the class  - all I had to do was click on a run icon.
@@ -35,13 +37,15 @@ I next continued the course on Team Treehouse to see if they had a different app
 I created a class which used Console instead of System in the Eclipse tutorial.
 I needed to import the Console class in order to use it also.
 
-`import java.io.Console;
+```
+import java.io.Console;
  public class Introductions {
     public static void main(String[] args) {
         Console console = System.console();
       console.printf("Hello World");       
   }
-}`
+}
+```
 
 
 I next had to compile it:
@@ -59,7 +63,7 @@ I then ran it using the following:
 
 And the output was:
 
-	*Hello World*
+	Hello World
 
 
 ###Observation
@@ -71,3 +75,37 @@ Upon investigation I discovered the following -
 
  In IntelliJ IDEA there is the same problem. The issue is that most IDEs to run programs use program javaw instead of java. This program runs without any link with system console but it supports input/output streams. IDEs use their own way to communicate and input information during program flow it uses System.in, System.out to show all needed information in prepared tab called probably "Console" (I don't use Eclipse ;))
 
+###Selenium in Java!!
+I next read some tutorials and was able to get Selenium setup to open 
+a webpage and extract its html!
+
+Code written - 
+
+*package test;
+ import org.openqa.selenium.WebDriver;
+ import org.openqa.selenium.chrome.ChromeDriver;
+ 
+ ```
+ public class FirstSeleniumTest {
+ 	public static  void main(String[] args) {
+ 	
+         // Telling the system where to find the Chrome driver
+         System.setProperty(
+                 "webdriver.chrome.driver",
+                 "/Users/ernestvanduyne/eclipse-workspace/SeleniumTest/drivers/chromedriver");
+        
+ 		WebDriver driver = new ChromeDriver();
+ 		
+ 		// Open Selenium website
+ 		driver.get("https://www.seleniumhq.org/");
+ 		
+         // Open google.com
+         driver.navigate().to("http://www.google.com");
+         String html = driver.getPageSource();
+         // Printing result here.
+         System.out.println(html);
+         driver.close();
+         driver.quit();
+ 	}
+ }
+ ```
