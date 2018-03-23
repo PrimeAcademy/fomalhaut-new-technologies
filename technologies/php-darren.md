@@ -15,9 +15,14 @@ After setup open MAMP on your local machine and click on start server, the serve
 
 ## Hello World
 
-Here is a link to my [Hello PHP World](https://github.com/darrenrector91/hello-php) example.
-Here is a screenshot of the result from a simple Hello World script https://i.imgur.com/c7sZr4N.png
+- Here is a link to my [Hello PHP World](https://github.com/darrenrector91/hello-php) example.
+- Here is a screenshot of the DOM result from a simple [Hello World](https://i.imgur.com/c7sZr4N.png) script 
+- Here is the [script](https://i.imgur.com/4E1wKBP.png) in VS Code 
 
 ## Next steps
+
+- Build a small contact form 
+- Research how to use PHP in my IoT projects
+- possibly develop reusable PHP scripts
 
 
