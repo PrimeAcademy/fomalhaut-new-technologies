@@ -16,6 +16,7 @@ After setup open MAMP on your local machine and click on start server, the serve
 ## Hello World
 
 Here is a link to my [Hello PHP World](https://github.com/darrenrector91/hello-php) example.
+Here is a screenshot of the result from a simple Hello World script https://i.imgur.com/c7sZr4N.png
 
 ## Next steps
 
