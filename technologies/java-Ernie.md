@@ -76,36 +76,49 @@ Upon investigation I discovered the following -
  In IntelliJ IDEA there is the same problem. The issue is that most IDEs to run programs use program javaw instead of java. This program runs without any link with system console but it supports input/output streams. IDEs use their own way to communicate and input information during program flow it uses System.in, System.out to show all needed information in prepared tab called probably "Console" (I don't use Eclipse ;))
 
 ###Selenium in Java!!
-I next read some tutorials and was able to get Selenium setup to open 
-a webpage and extract its html!
+I next read some tutorials and was able to get Selenium setup in Java to run 
+tests on my solo!
 
 Code written - 
 
-*package test;
- import org.openqa.selenium.WebDriver;
- import org.openqa.selenium.chrome.ChromeDriver;
  
  ```
+ package test;
+ 
+ import org.openqa.selenium.By;
+ import org.openqa.selenium.WebDriver;
+ import org.openqa.selenium.chrome.ChromeDriver;
+ import org.openqa.selenium.firefox.FirefoxDriver;
+ 
  public class FirstSeleniumTest {
  	public static  void main(String[] args) {
  	
+ 		
          // Telling the system where to find the Chrome driver
          System.setProperty(
                  "webdriver.chrome.driver",
                  "/Users/ernestvanduyne/eclipse-workspace/SeleniumTest/drivers/chromedriver");
-        
+ 		
+ 		//WebDriver driver = new FirefoxDriver();
  		WebDriver driver = new ChromeDriver();
  		
- 		// Open Selenium website
- 		driver.get("https://www.seleniumhq.org/");
  		
-         // Open google.com
-         driver.navigate().to("http://www.google.com");
-         String html = driver.getPageSource();
-         // Printing result here.
-         System.out.println(html);
-         driver.close();
-         driver.quit();
+         // Open ChoreAward
+         driver.navigate().to("https://choreaward.herokuapp.com/#!/home");
+         
+         // enter a valid username
+         driver.findElement(By.id("username")).sendKeys("Ernie");
+ 
+         // enter a valid password
+         driver.findElement(By.id("password")).sendKeys("ernie");
+         
+         // submit the form
+         driver.findElement(By.id("submit")).submit();
+         
+         //driver.close();
+         //driver.quit();
+ 		
  	}
  }
+
  ```

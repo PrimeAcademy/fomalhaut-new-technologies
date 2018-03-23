@@ -2,6 +2,8 @@
 
 ## About
 
+![PHP](http://php.net/images/logos/new-php-logo.svg "PHP")
+
 PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.
 
 ## Set Up
