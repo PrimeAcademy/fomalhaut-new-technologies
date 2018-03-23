@@ -1,7 +1,7 @@
 # Paul's Personal Python Programming Pet Project
 
 ## About
-Python is a general-purpose language, dynamically compiled programming language. It is used for everything from web programming, creating desktop applications and game development.
+Python is a general-purpose, dynamically compiled programming language. It is used for everything from web programming, creating desktop applications and game development.
 
 ## Set Up
 In order to get started with Python, you first must install it. You can download it directly from terinal using [Homebrew](https://brew.sh/); however, if you are on a Mac, you will need to first download [Xcode](https://developer.apple.com/xcode/). You have an option either to download Python 2 (legacy version) or Python 3. I decided to download and work with the latest version of Python, Python 3.6.4.
