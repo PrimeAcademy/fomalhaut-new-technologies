@@ -15,7 +15,7 @@ Follow the steps for the download and then proceed with the installation as per 
 
 After setup open MAMP on your local machine and click on start server, the server will fire up and you will be redirected to a page that contains some useful information such as port and socket.
 
-##Implementation
+## Implementation
 
 I would use PHP in my stack to replace Filestack and what it does by writing a PHP script to do file uploads and the ability to do just about everything Filestack is intended to do. [Link](https://www.w3schools.com/php/php_file_upload.asp)
 
