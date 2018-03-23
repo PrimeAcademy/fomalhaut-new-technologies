@@ -5,7 +5,7 @@ Java is a class based, object oriented programming language. Java is meant to be
 
 ## Set Up
 To get started with Java you must install [Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
-To make it easy to create a servlet I'd suggest downloading an IED, I used [Intellij](https://www.jetbrains.com/idea/download/#section=mac).
+To make it easy to create a servlet I'd suggest downloading an IDE, I used [Intellij](https://www.jetbrains.com/idea/download/#section=mac).
 
 ## Hello World
 
